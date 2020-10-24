@@ -1,6 +1,5 @@
 from selenium import webdriver as wd
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
-import numpy as np
 import time
 
 
